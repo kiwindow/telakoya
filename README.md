@@ -2,12 +2,12 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwindow/telakoya/blob/main/The3rdTelakoyaCommnds.ipynb)
 
-## Open in Colab から始める場合
+## 1. Open in Colab から始める場合
 1) 上の「Open in Colab」クリックし、開いたColabの上方にある「ドライブにコピー」をクリックする。
 2) 自分の Google Drive の MyDrive にある Colab　Notebooks に The3rdTelakoyaCommnds.ipynb のコピーが保存される。
 3) それを MyDrive/Telakoya/tela3 の中に移動して、順次計算を勧めても良い。
 
-## telakoyaにあるファイルをdownloadして始める場合
+## 2. telakoyaにあるファイルをdownloadして始める場合
 ◆　このフォルダーの中には以下のファイルが含まれる。
 1. The3rdTelakoyaCommands.ipynb : 第3回寺子屋の演習で入力するコマンド。
 2. The3rdTelakoyaProgram.pdf : 第3回寺子屋で行う演習項目。
