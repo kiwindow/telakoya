@@ -2,7 +2,7 @@
 このフォルダーの中には以下のファイルが含まれる。
 1. The3rdTelakoyaCommands.ipynb : 第3回寺子屋の演習で入力するコマンド。
 2. The3rdTelakoyaProgram.pdf : 第3回寺子屋で行う演習項目。
-3. dataで始まる7つのファイル : 演習で利用するデータセット。datawで始まる3つのファイルは、復讐の時に利用するデータセット。
+3. dataで始まる7つのファイル : 演習で利用するデータセット。datawで始まる3つのファイルは、復習の時に利用するデータセット。
 4. Telakoya2_InputOutputPreProcessing.ipynb : 第2回寺子屋のテキスト。
 5. Exercise20220820.ipynb : 第2回寺子屋での演習内容。
 第3回の寺子屋では、最初のThe3rdTelakoyaCommnads.ipynbのコピーを作成し、そのコピーを開いて演習しても良い。その場合は、notebookをGoogle Driveにマウント出来れば、　1つ1つのセルを上から順に泌尿化してゆく出してゆくむだけでよい。
