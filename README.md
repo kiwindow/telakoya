@@ -5,7 +5,7 @@
 ## 1. Open in Colab から始める場合
 1) 上の「Open in Colab」クリックし、開いたColabの上方にある「ドライブにコピー」をクリックする。
 2) 自分の Google Drive の MyDrive にある Colab　Notebooks に The3rdTelakoyaCommnds.ipynb のコピーが保存される。
-3) それを MyDrive/Telakoya/tela3 の中に移動して、順次計算を勧めても良い。
+3) それを MyDrive/Telakoya/tela3 の中に移動して、順次計算を進めても良い。
 
 ## 2. telakoyaにあるファイルをdownloadして始める場合
 ◆　このフォルダーの中には以下のファイルが含まれる。
