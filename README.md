@@ -7,6 +7,7 @@
 2) 自分の Google Drive の MyDrive にある Colab　Notebooks に The3rdTelakoyaCommnds.ipynb のコピーが保存される。
 3) それを MyDrive/Telakoya/tela3 の中に移動して、順次計算を勧めても良い。
 
+## telakoyaにあるファイルをdownloadして始める場合
 ◆　このフォルダーの中には以下のファイルが含まれる。
 1. The3rdTelakoyaCommands.ipynb : 第3回寺子屋の演習で入力するコマンド。
 2. The3rdTelakoyaProgram.pdf : 第3回寺子屋で行う演習項目。
