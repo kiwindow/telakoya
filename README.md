@@ -2,7 +2,7 @@
 
 The3rdTelakoyaCommands
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17ARY0n9Mug45IJdmshg2Kn6CSksP2diP)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github.com/kiwindow/telakoya/blob/main/The3rdTelakoyaCommnds.ipynb)
 
 ◆　このフォルダーの中には以下のファイルが含まれる。
 1. The3rdTelakoyaCommands.ipynb : 第3回寺子屋の演習で入力するコマンド。
