@@ -21,7 +21,7 @@
 1. MyDriveの中にTelakoyaというフォルダーを作る。
 2. その中に、tela3というフォルダーを作る。
 3. その中に、dataというフォルダーを作る。
-4. GitHubの今アクセスしているフォルダー (https://github.com/kiwindow/telakoya) をDesktopにダウンロードする。
+4. GitHubの今アクセスしているフォルダー (https://github.com/kiwindow/telakoya) をDesktopにダウンロードする(右上のCodeをクリックし、更にDownload ZIPをクリックする。
 5. dataで始まる７つのファイルを、Telakoya/tela3/dataの中にuploadする。
 6. Telakoya/tela3の中に、dowonloadしたフォルダーの中にあるThe3rdTelakoyaCommands.ipynbをuploadしておく(参照用)。
 7. Telakoya/tela3の中に、演習用の白紙のColaboratoryのnotebookを作成する。
