@@ -8,7 +8,7 @@
 3) それを MyDrive/Telakoya/tela3 の中に移動して、順次計算を進めても良い。
 
 ## 2. telakoyaにあるファイルをdownloadして始める場合
-◆　このフォルダーの中には以下のファイルが含まれる。それらのdownloadは、右上の緑色のCodeをクリックし、メニューの中のDownload ZIPをクリックする。
+◆　このフォルダーの中には以下のファイルが含まれる。右上の緑色のCodeをクリックし、メニューの中のDownload ZIPをクリックすると、それらのファイルがZIPファイルでdownloadされる。
 1. The3rdTelakoyaCommands.ipynb : 第3回寺子屋の演習で入力するコマンド。
 2. The3rdTelakoyaProgram.pdf : 第3回寺子屋で行う演習項目。
 3. dataで始まる7つのファイル : 演習で利用するデータセット。datawで始まる3つのファイルは、復習の時に利用するデータセット。
