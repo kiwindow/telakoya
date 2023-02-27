@@ -2,7 +2,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwindow/telakoya/blob/main/The3rdTelakoyaCommnds.ipynb)
 
-## 1. Open in Colab から始める場合
+## 1. 第3回の寺子屋の演習を Open in Colab から始める場合
 1) 上の「Open in Colab」クリックし、開いたColabの上方にある「ドライブにコピー」をクリックする。
 2) 自分の Google Drive の MyDrive にある Colab　Notebooks に The3rdTelakoyaCommnds.ipynb のコピーが保存される。
 3) それを MyDrive/Telakoya/tela3 の中に移動して、順次計算を進めても良い。
