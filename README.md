@@ -17,8 +17,6 @@
 
 ◆ 第3回の寺子屋では、The3rdTelakoyaCommnads.ipynbのコピーを作成し、そのコピーを開いて演習しても良い。その場合は、notebookをGoogle Driveにマウントして、　1つ1つのセルを上から順に評価してゆくだけでよい。
 
-## 3. 第4回の寺子屋の演習
-
 ◆ 第3回の演習に際して、以下のようにフォルダーを作成し、データを配置してから演習を行ってゆく。
 1. MyDriveの中にTelakoyaというフォルダーを作る。
 2. その中に、tela3というフォルダーを作る。
@@ -29,6 +27,8 @@
 7. Telakoya/tela3の中に、演習用の白紙のColaboratoryのnotebookを作成する。
 8. そのnotebookをGoogle Driveにmountする。
 9. そのnotebook上で、The3rdTekakoyaCommandsに書かれているコマンドを一つ一つ実行してゆく。
+
+## 3. 第4回の寺子屋の演習
 
 ◆ 第4回の寺子屋では、The4thTelakoyaML.ipynbにある内容を演習する。
 
