@@ -7,7 +7,7 @@
 2) 自分の Google Drive の MyDrive にある Colab　Notebooks に The3rdTelakoyaCommnds.ipynb のコピーが保存される。
 3) それを MyDrive/Telakoya/tela3 の中に移動して、順次計算を進めても良い。
 
-## 2. telakoyaにあるファイルをdownloadして始める場合
+## 2. 第3回の寺子屋の演習をtelakoyaにあるファイルをdownloadして始める場合
 ◆　このフォルダーの中には以下のファイルが含まれる。右上の緑色のCodeをクリックし、メニューの中のDownload ZIPをクリックすると、それらのファイルがZIPファイルでdownloadされる。
 1. The3rdTelakoyaCommands.ipynb : 第3回寺子屋の演習で入力するコマンド。
 2. The3rdTelakoyaProgram.pdf : 第3回寺子屋で行う演習項目。
@@ -16,6 +16,8 @@
 5. Exercise20220820.ipynb : 第2回寺子屋での演習内容。
 
 ◆ 第3回の寺子屋では、The3rdTelakoyaCommnads.ipynbのコピーを作成し、そのコピーを開いて演習しても良い。その場合は、notebookをGoogle Driveにマウントして、　1つ1つのセルを上から順に評価してゆくだけでよい。
+
+## 3. 第3回の寺子屋の演習
 
 ◆ 第3回の演習に際して、以下のようにフォルダーを作成し、データを配置してから演習を行ってゆく。
 1. MyDriveの中にTelakoyaというフォルダーを作る。
