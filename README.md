@@ -2,6 +2,11 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiwindow/telakoya/blob/main/The3rdTelakoyaCommnds.ipynb)
 
+## 0. 第1回　Google Colaboratoryの始め方
+1) 寺子屋の演習を開始するには、Googleの無料サービスの一つである「Google Colaboratory」が使用できる必要がある。
+2) その方法は、「Google Colaboratoryの使い方.pdf」に記載されている。
+3) その記述に従い、まず演習に必要な環境設定を行う。
+
 ## 1. 第3回の寺子屋の演習を Open in Colab から始める場合
 1) 上の「Open in Colab」クリックし、開いたColabの上方にある「ドライブにコピー」をクリックする。
 2) 自分の Google Drive の MyDrive にある Colab　Notebooks に The3rdTelakoyaCommnds.ipynb のコピーが保存される。
