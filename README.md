@@ -18,7 +18,7 @@
 4) GitHubの今アクセスしているフォルダー (https://github.com/kiwindow/telakoya) をDesktopにダウンロードする(右上のCodeをクリックし、更にDownload ZIPをクリックする)。
 5) ダウンロードしたフォルダーの中にある data.csv、data.xlsx、dataL.xlsx、dataM.xlsx、dataw.csv、dataw.xlsx,dtawM.xlsx をMyDrive/Telakoya/tela2/data の中にアップロードする。
 6) 上の「Open in Colab」クリックし、開いたColabの上方にある「ドライブにコピー」をクリックする。
-7) 自分の GoogleDrive の MyDrive にある Colab　Notebooks に Telakoya2_InputOutputPreprocessing.ipynb のコピーが保存される。
+7) 自分の GoogleDrive の MyDrive にある ColabNotebooks に Telakoya2_InputOutputPreprocessing.ipynb のコピーが保存される。
 8) それを MyDrive/Telakoya/tela2 の中に移動して、順次計算を進めても行く。
 
 ## 2-2. 第2回の寺子屋の演習を 自分のPCに download してから始める場合
