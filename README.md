@@ -12,13 +12,14 @@
 
 ◆ 第2回の寺子屋では、Telakoya2_InputOutputPreprocessing.ipynbにある内容を演習する。その中には第３回の演習内容も含まれる。
 
-1) 上の「Open in Colab」クリックし、開いたColabの上方にある「ドライブにコピー」をクリックする。
-2) 自分の Google Drive の MyDrive にある Colab　Notebooks に Telakoya2_InputOutputPreprocessing.ipynb のコピーが保存される。
-3) それを MyDrive/Telakoya/tela2 の中に移動して、順次計算を進めても行く。
-4) 計算を始める前に、Telakoya/tela2 の中に、data と result というフォルダーを作る。
-5) GitHubの今アクセスしているフォルダー (https://github.com/kiwindow/telakoya) をDesktopにダウンロードする(右上のCodeをクリックし、更にDownload ZIPをクリックする)。
-6) ダウンロードしたフォルダーの中にある data.csv、data.xlsx、dataL.xlsx、dataM.xlsx、dataw.csv、dataw.xlsx,dtawM.xlsx をMyDrive/Telakoya/tela2/data の中にアップロードする。
-7) 必要なデータが Telakoya/tela2/data の中に入れば、3) の計算を始めてゆく。
+1) MyDriveの中にTelakoyaというフォルダーを作る。
+2) その中に、tela2というフォルダーを作る。
+3) その中に、dataというフォルダーを作る。
+4) GitHubの今アクセスしているフォルダー (https://github.com/kiwindow/telakoya) をDesktopにダウンロードする(右上のCodeをクリックし、更にDownload ZIPをクリックする)。
+5) ダウンロードしたフォルダーの中にある data.csv、data.xlsx、dataL.xlsx、dataM.xlsx、dataw.csv、dataw.xlsx,dtawM.xlsx をMyDrive/Telakoya/tela2/data の中にアップロードする。
+6) 上の「Open in Colab」クリックし、開いたColabの上方にある「ドライブにコピー」をクリックする。
+7) 自分の Google Drive の MyDrive にある Colab　Notebooks に Telakoya2_InputOutputPreprocessing.ipynb のコピーが保存される。
+8) それを MyDrive/Telakoya/tela2 の中に移動して、順次計算を進めても行く。
 
 ## 2-2. 第2回の寺子屋の演習を 自分のPCに download してから始める場合
 
