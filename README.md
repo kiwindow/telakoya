@@ -21,7 +21,7 @@
 7) 自分の GoogleDrive の MyDrive にある ColabNotebooks に Telakoya2_InputOutputPreprocessing.ipynb のコピーが保存される。
 8) それを MyDrive/Telakoya/tela2 の中に移動して、順次計算を進めても行く。
 
-## 2-2. 第2回の寺子屋の演習を 自分のPCに download してから始める場合
+## 2-2. 第2回の寺子屋の演習を 必要なファイルを自分のPCに download してから始める場合
 
 ◆ 第2回の演習に際して、以下のようにフォルダーを作成し、データを配置してから演習を行ってゆく。
 1. MyDrive の中に Telakoya というフォルダーを作る。
@@ -45,7 +45,7 @@
 3) 自分の Google Drive の MyDrive にある Colab　Notebooks に The3rdTelakoyaCommnds.ipynb のコピーが保存される。
 4) それを MyDrive/Telakoya/tela3 の中に移動して、順次計算を進めても行く。
 
-## 3-2. 第3回の寺子屋の演習を 自分のPCに download してから始める場合
+## 3-2. 第3回の寺子屋の演習を 必要なファイルを自分のPCに download してから始める場合
 
 ◇　以下のファイルを利用する。右上の緑色の「Code」をクリックし、メニューの中のDownload ZIPをクリックすると、それらのファイルがZIPファイルでdownloadされる。
 1. The3rdTelakoyaCommands.ipynb : 第3回寺子屋の演習で入力するコマンド。
@@ -77,7 +77,7 @@
 4) 自分の Google Drive の MyDrive にある Colab　Notebooks に The4thTelakoyaML.ipynb のコピーが保存される。
 5) それを MyDrive/Telakoya/tela4 の中に移動して、順次計算を進めても行く。
 
-## 4-2. 第4回の寺子屋の演習を 自分のPCに download してから始める場合
+## 4-2. 第4回の寺子屋の演習を 必要なファイルを自分のPCに download してから始める場合
 
 ◆ 第4回の演習に際して、以下のようにフォルダーを作成し、データを配置してから演習を行ってゆく。
 1. MyDriveの中に Telakoya というフォルダーを作る。
@@ -102,7 +102,7 @@
 4) 自分の Google Drive の MyDrive にある Colab　Notebooks に The5thTelakoyaDL.ipynb のコピーが保存される。
 5) それを MyDrive/Telakoya/tela5 の中に移動して、順次計算を進めても行く。
 
-## 5-2. 第5回の寺子屋の演習を 自分のPCに download してから始める場合
+## 5-2. 第5回の寺子屋の演習を 必要なファイルを自分のPCに download してから始める場合
 
 ◆ 第5回の演習に際して、以下のようにフォルダーを作成してから演習を行ってゆく。
 1. MyDriveの中に Telakoya というフォルダーを作る。
