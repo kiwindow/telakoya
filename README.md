@@ -113,3 +113,4 @@
 6. Telakoya/tela5 の中に、演習用の白紙の Colaboratoryのnotebook を作成する。
 7. そのnotebook を Google Drive に mount する。
 8. そのnotebook 上で、The5rdTekakoyaDL に書かれているコマンドを一つ一つ実行してゆく。
+9. The5thTelakoyaDLcore.ipynb は、重要なコマンドのみを集めたファイル。
