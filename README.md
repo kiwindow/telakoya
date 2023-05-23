@@ -115,3 +115,4 @@
 8. そのnotebook 上で、The5rdTekakoyaDL に書かれているコマンドを一つ一つ実行してゆく。
 9. The5thTelakoyaDLcore.ipynb は、The5thTelakoyaDL.ipynb における重要なコマンドのみを集めたファイル。
 10. The5thTelakoyaCodeSnippet.ipynb は、演習で利用するコマンドのみを集めたファイル。
+11. The5thTelakoyaExercise.ipnnt は、第５回の演習で実修する内容。
