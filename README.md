@@ -121,14 +121,14 @@
 
 ◆ 第6回の演習に関しては、以下のようにOpenAIのChatGPTを利用して行う。
 1. ChromeなどのBrowserのURLに、chat.openai.com と入力して Sign In してからChatGTPに Log In する。
-  [A] メールアドレスでSign Upする場合
+ A. メールアドレスでSign Upする場合
   1) メールアドレスの入力
   2) Passwordの設定と人間であることのチェック
   3) 確認メールのVerify email addressをクリック
   4) 氏名や生年月日や電話番号(携帯)などを入力
   5) Send codeをクリック
   6) 携帯に届いた認証コードの入力(二段階承認)
-  [B] GoogleアカウントでSign Upする場合
+B. GoogleアカウントでSign Upする場合
   1) メールアドレスを入力する画面で下にある Continue with Googleをクリック
   2) アカウントの選択で自分のGmailを選ぶ
   3) 氏名や生年月日や電話番号(携帯)などを聞かれたら入力
