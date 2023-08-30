@@ -120,24 +120,24 @@
 ## 6. 第6回の寺子屋の演習
 
 ◆ 第6回の演習に関しては、以下のようにOpenAIのChatGPTを利用して行う。
-1. ChromeなどのBrowserのURLに、chat.openai.com と入力して Sign In してからChatGTPに Log In する。
-　◇　メールアドレスでSign Upする場合
- ・ メールアドレスの入力
-　　・ Passwordの設定と人間であることのチェック
-　　・ 確認メールのVerify email addressをクリック
-　　・ 氏名や生年月日や電話番号(携帯)などを入力
-　　・ Send codeをクリック
-　　・ 携帯に届いた認証コードの入力(二段階承認)
-　◇　GoogleアカウントでSign Upする場合
-　　・ メールアドレスを入力する画面で下にある Continue with Googleをクリック
-　　・ アカウントの選択で自分のGmailを選ぶ
-　　・ 氏名や生年月日や電話番号(携帯)などを聞かれたら入力
-　　・ Send codeをクリック
-　　・ 携帯に届いた認証コードの入力(二段階承認)
-2. 一度ChatGPTに Log In すると、2回目から chat.openai.com にアクセスすると直ぐにChatGPTに入れる。
-3. ChatGPT は Log In しただけでは、無料のWeb版のChatGPT (GPT-3.5+) のみが利用できる。
-4. ChatGPT Plus ($20/month) に upgrade すると GPT-4 や Plugins や Code Interperter (Advanced Data Analysis) が利用できる。
-5. API や Playground を利用するには、また別の subscribe が必要。それらは従量制の課金であるが、ChatGPT Plus よりも低額になる可能性が高い。
-6. 第6回の演習に必要な prompt の文章は、当サイトにある The6thTelakoyaPrompts.pdf から copy & past して利用できる。
-7. 第2回の演習で利用した乳癌のデータ breast.csv は、目的変数が 1 が良性、0 が悪性となっているが、機械学習では event がある方を 1 とすることが多い。
-　  　そこで　目的変数の 0 と 1 とを逆にしたデータを当サイトに correctedbreast.csv として保存してある。 
+### ■　ChromeなどのBrowserのURLに、chat.openai.com と入力して Sign In してからChatGTPに Log In する。
+#### □ メールアドレスでSign Upする場合
+1. メールアドレスの入力
+2. Passwordの設定と人間であることのチェック
+3. 確認メールのVerify email addressをクリック
+4. 氏名や生年月日や電話番号(携帯)などを入力
+5. Send codeをクリック
+6. 携帯に届いた認証コードの入力(二段階承認)
+#### □ GoogleアカウントでSign Upする場合
+1. メールアドレスを入力する画面で下にある Continue with Googleをクリック
+2. アカウントの選択で自分のGmailを選ぶ
+3. 氏名や生年月日や電話番号(携帯)などを聞かれたら入力
+4. Send codeをクリック
+5. 携帯に届いた認証コードの入力(二段階承認)
+#### ■　一度ChatGPTに Log In すると、2回目から chat.openai.com にアクセスすると直ぐにChatGPTに入れる。
+1. ChatGPT は Log In しただけでは、無料のWeb版のChatGPT (GPT-3.5+) のみが利用できる。
+2. ChatGPT Plus ($20/month) に upgrade すると GPT-4 や Plugins や Code Interperter (Advanced Data Analysis) が利用できる。
+3. API や Playground を利用するには、また別の subscribe が必要。それらは従量制の課金であるが、ChatGPT Plus よりも低額になる可能性が高い。
+4. 第6回の演習に必要な prompt の文章は、当サイトにある The6thTelakoyaPrompts.pdf から copy & past して利用できる。
+8. 第2回の演習で利用した乳癌のデータ breast.csv は、目的変数が 1 が良性、0 が悪性となっているが、機械学習では event がある方を 1 とすることが多い。そこで　目的変数の 0 と 1 とを逆にしたデータを当サイトに correctedbreast.csv として保存してある。
+9. 第6回の演習に際しては、JAINBPのHPにある AI寺子屋セミナー動画 https://www.jainbp.or.jp/limited-v/ を参照して下さい(会員限定)。
