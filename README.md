@@ -140,4 +140,4 @@
 3. API や Playground を利用するには、また別の subscribe が必要。それらは従量制の課金であるが、ChatGPT Plus よりも低額になる可能性が高い。
 4. 第6回の演習に必要な prompt の文章は、当サイトにある The6thTelakoyaPrompts.pdf を download し、それから copy & past して利用できる。
 8. 第2回の演習で利用した乳癌のデータ breast.csv は、目的変数が 1 が良性、0 が悪性となっているが、機械学習では event がある方を 1 とすることが多い。そこで　目的変数の 0 と 1 とを逆にしたデータを当サイトに correctedbreast.csv として保存してある。
-9. 第6回の演習に際しては、JAINBPのHPにある AI寺子屋セミナー動画 https://www.jainbp.or.jp/limited-v/ を参照して下さい(会員限定)。
+9. 第6回の演習の内容は、JAINBPのHPにある AI寺子屋セミナー動画 https://www.jainbp.or.jp/limited-v/ を参照して下さい(会員限定)。
